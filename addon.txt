@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Diablo 3 Health Bar"
+	"author_name" "Fearless Captain"
+	"info" "Our server's website is located at http://shittyrp.com/"
+}
